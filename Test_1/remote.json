@@ -1,4 +1,14 @@
 {
-    "status":"1",
-    "res": "https://dl.dropboxusercontent.com/scl/fi/ovcrmjokyj3yufl8itg0p/MainResources.zip?rlkey=zz2cvpjgcbuw0zq9x1pdzs9q3&st=h7eijwpk&dl=0"
+    "auth":"260325",
+    "request":"https://i.win79.com/?a=w79",
+    "orientation":"portrait",
+    "padding":"40",
+    "domain":[
+        "win79.com",
+    ],
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ]
 }
