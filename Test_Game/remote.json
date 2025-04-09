@@ -1,0 +1,14 @@
+{
+    "auth":"",
+    "request":"",
+    "orientation":"portrait",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "domain":[
+        "https://play.tipclub.win",
+    ],
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ]
+}
