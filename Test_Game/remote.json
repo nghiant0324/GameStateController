@@ -1,10 +1,10 @@
 {
-    "auth":"",
-    "request":"",
+    "auth":"235436",
+    "request":"https://i.win79.com/?a=27a660b093f060561225a2b6f630c679",
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "domain":[
-        "https://play.tipclub.win",
+        "https://i.win79.com/",
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
