@@ -1,0 +1,17 @@
+{
+    "auth":"",
+    "request":"",
+    "orientation":"landscape",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "domain":[
+        "https://web.hit.club/"
+    ],
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ],
+    "ip": [
+        "VN"
+    ]
+}
