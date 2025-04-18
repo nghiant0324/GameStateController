@@ -1,10 +1,10 @@
 {
-    "auth":"",
-    "request":"",
-    "orientation":"landscape",
+    "auth":"23432432",
+    "request":"https://i.vip79.com/?a=exo_c92aea04aa6e95e6cff6289d2e1b36f4",
+    "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "domain":[
-        "https://web.hit.club/"
+        "https://i.vip79.com/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
